@@ -1,5 +1,3 @@
-# React Simplified
-
 React simplified is simple, zero-dependency, and lightweight React.js implementation that provides a simple way to create user interfaces. See video demo of the dashboard application built with this library [here](./apps/dashboard/README.md)
 
 ## Table of Contents
